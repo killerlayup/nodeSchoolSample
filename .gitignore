@@ -1,0 +1,20 @@
+﻿# 开发测试输出文件夹，ignore
+
+# Node.js artifacts
+
+npm-debug.log
+.vscode
+node_modules
+
+
+
+# Mac files
+.DS_Store
+
+
+
+
+
+
+
+
